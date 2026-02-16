@@ -26,7 +26,5 @@
 - 
 
 ---
-
-**📝 NOTES & TIPS :**
-- *Retenir que :* **💬 COMMENTAIRE PERSONNEL :**
+ **💬 COMMENTAIRE PERSONNEL :**
 > *Mon ressenti :* ---
