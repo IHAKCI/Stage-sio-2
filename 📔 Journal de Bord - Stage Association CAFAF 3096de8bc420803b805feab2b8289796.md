@@ -8,25 +8,25 @@
 
 ---
 
-## 📅 Semaine 1 — 16/02/2026
+## 📅 Semaine du 16/02/2026 au 20/02/2026
 
-### 🧠 SAVOIR-FAIRE DÉPLOYÉS
+### 🗓️ Lundi :
+-  
 
-→ 
+### 🗓️ Mardi :
+-  
+
+### 🗓️ Mercredi :
+- 
+
+### 🗓️ Jeudi :
+- 
+
+### 🗓️ Vendredi :
+- 
+
+---
 
 **📝 NOTES & TIPS :**
-
-- *Retenir que :
-
-**💬 COMMENTAIRE PERSONNEL :**
-
-> *Mon ressenti :*
-> 
-
----
-
-### Semaine 02 (du DD/MM au DD/MM)
-
-*(À répéter chaque semaine)*
-
----
+- *Retenir que :* **💬 COMMENTAIRE PERSONNEL :**
+> *Mon ressenti :* ---
