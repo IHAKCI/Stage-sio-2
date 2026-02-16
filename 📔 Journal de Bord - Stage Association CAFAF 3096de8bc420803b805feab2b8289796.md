@@ -11,7 +11,15 @@
 ## 📅 Semaine du 16/02/2026 au 20/02/2026
 
 ### 🗓️ Lundi :
--  Première initation a l'équipe avec la mise en place des missions que je vais devoir faire, définition des Technologies envisageables. En attentes de Najib pour faire l'inventaire sur le matériel existant 
+-  Première initation a l'équipe avec la mise en place des missions que je vais devoir faire, définition des Technologies envisageables. En attentes de Najib pour faire l'inventaire sur le matériel existant.
+
+| Domaines  | Technologies | Objectifs |
+| ------------- |:-------------:|:-------------:| 
+| Segmentation  | VLAN                         | Création de 3 réseaux virtuel(Privé, Invité, Iot)  |
+| Adressage     | DHCP                         | 3 pool dhcp pour chaque VLAN                       |
+| Wifi          | SSID avec isloation          | 2 SSID avec un wifi "privé" et "invité"            |
+| Stockage      | RAID 1 (Mirroring)           | Assurer la redondance des données sur le NAS       |
+| Documentation | Schéma professionnelle       | Logiciel de schématisation comme Visio,Word, etc ..|
 
 ### 🗓️ Mardi :
 -  
