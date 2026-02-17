@@ -22,7 +22,7 @@
 | Documentation | Schéma professionnelle       | Logiciel de schématisation comme Visio,Word, etc ..|
 
 ### 🗓️ Mardi :
--  
+-  Recherche des besoins de 
 
 ### 🗓️ Mercredi :
 - 
