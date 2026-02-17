@@ -22,8 +22,14 @@
 | Documentation | Schéma professionnelle       | Logiciel de schématisation comme Visio,Word, etc ..|
 
 ### 🗓️ Mardi :
--  Recherche des besoins de 
-
+-  Listes des acquis/besoins :
+    - Routeur (Synologie rt2600 ac) avec 3 Vlan ( privé, invité, iot)
+    - Imprimante
+    - Caméra avec NVR
+    - Nas (appartenant a la bureautique et isolé)
+    - PC (Mac, Windows, etc)
+    - Wifi isolé
+    - Switch (Netgear)
 ### 🗓️ Mercredi :
 - 
 
