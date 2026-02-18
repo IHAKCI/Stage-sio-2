@@ -30,6 +30,7 @@
     - PC (Mac, Windows, etc)
     - Wifi isolé
     - Switch (Netgear)
+    Début de la création du shcéma de l'infrastructure sur visio
 ### 🗓️ Mercredi :
 - 
 
