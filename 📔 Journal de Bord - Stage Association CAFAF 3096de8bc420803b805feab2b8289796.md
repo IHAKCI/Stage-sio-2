@@ -32,7 +32,7 @@
     - Switch (Netgear)
     Début de la création du shcéma de l'infrastructure sur visio
 ### 🗓️ Mercredi :
-- 
+- Finalisation du schéma logique sous Visio avec segmentation VLAN et définition du plan d'adressage IP
 
 ### 🗓️ Jeudi :
 - 
