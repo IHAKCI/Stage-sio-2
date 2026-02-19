@@ -36,6 +36,7 @@
 
 ### 🗓️ Jeudi :
 - Modification mineur sur le schéma et ajout d'adresses réseaux sur le schéma.
+- Implémentation de l'applicatif Brother au responsable pour fluidifier les impressions 
 
 ### 🗓️ Vendredi :
 - 
