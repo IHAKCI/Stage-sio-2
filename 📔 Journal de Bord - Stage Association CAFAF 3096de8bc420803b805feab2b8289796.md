@@ -36,7 +36,8 @@
 
 ### 🗓️ Jeudi :
 - Modification mineure sur le schéma et ajout des adresses réseau sur le schéma.
-- Implémentation de l'applicatif Brother pour les responsables pour fluidifier les impressions 
+- Implémentation de l'applicatif Brother pour les responsables pour fluidifier les impressions
+- Recherche de documentation sur le routeur afin de prendre connaissance de ses possibilités et de ses fonctionnalités. 
 
 ### 🗓️ Vendredi :
 - 
