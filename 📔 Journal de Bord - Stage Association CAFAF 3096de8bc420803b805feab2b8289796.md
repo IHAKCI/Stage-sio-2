@@ -35,7 +35,7 @@
 - Finalisation du schéma logique sous Visio avec segmentation VLAN et définition du plan d'adressage IP
 
 ### 🗓️ Jeudi :
-- 
+- Modification mineur sur le schéma et ajout d'adresses réseaux sur le schéma.
 
 ### 🗓️ Vendredi :
 - 
