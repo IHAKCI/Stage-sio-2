@@ -40,7 +40,7 @@
 - Recherche de documentation sur le routeur afin de prendre connaissance de ses possibilités et de ses fonctionnalités. 
 
 ### 🗓️ Vendredi :
-- 
+- Validation de la topologie réseau v3 avec segmentation par VLAN et synchronisation sécurisée du projet sur GitHub et GitLab après résolution d'un conflit de fusion Git.
 
 ---
 **💬 BILAN HEBDOMADAIRE :**
