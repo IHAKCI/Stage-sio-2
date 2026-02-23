@@ -48,6 +48,8 @@
 
 ### 🗓️ Lundi :
 -  Rédaction du dossier de contexte : Formalisation de la présentation de l'organisation et de l'état des lieux technique sur Word.
+- Planification de l'audit matériel : Identification des points de vigilance pour le futur inventaire physique (modèles exacts, connectique PoE pour les caméras, état des câbles).
+- Lancement de la Mission 4 (Audit de cybersécurité) : Analyse préliminaire du site web de l’événement (hébergé chez OVH) via des outils d'audit passif.
 ### 🗓️ Mardi :
 -  
 ### 🗓️ Mercredi :
@@ -58,7 +60,7 @@
 
 ### 🗓️ Vendredi :
 -
- 
+
 ---
 **💬 BILAN HEBDOMADAIRE :**
 > Le début de la semaine marque une immersion dans le monde professionnel, avec une adaptation à l’équipe et la mise en situation face à des recherches de solutions peu connues dans le cadre scolaire.
