@@ -57,48 +57,8 @@
 - 
 
 ### 🗓️ Vendredi :
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-
+ 
 ---
 **💬 BILAN HEBDOMADAIRE :**
 > Le début de la semaine marque une immersion dans le monde professionnel, avec une adaptation à l’équipe et la mise en situation face à des recherches de solutions peu connues dans le cadre scolaire.
