@@ -47,7 +47,7 @@
 ## 📅 Semaine du 23/02/2026 au 02/03/2026
 
 ### 🗓️ Lundi :
--  
+-  Rédaction du dossier de contexte : Formalisation de la présentation de l'organisation et de l'état des lieux technique sur Word.
 ### 🗓️ Mardi :
 -  
 ### 🗓️ Mercredi :
