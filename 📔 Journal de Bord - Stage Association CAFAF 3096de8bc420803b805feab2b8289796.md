@@ -42,6 +42,63 @@
 ### 🗓️ Vendredi :
 - Validation de la topologie réseau v3 avec segmentation par VLAN et synchronisation sécurisée du projet sur GitHub et GitLab après résolution d'un conflit de fusion Git.
 
+
+
+## 📅 Semaine du 23/02/2026 au 02/03/2026
+
+### 🗓️ Lundi :
+-  
+### 🗓️ Mardi :
+-  
+### 🗓️ Mercredi :
+- 
+
+### 🗓️ Jeudi :
+- 
+
+### 🗓️ Vendredi :
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 **💬 BILAN HEBDOMADAIRE :**
 > Le début de la semaine marque une immersion dans le monde professionnel, avec une adaptation à l’équipe et la mise en situation face à des recherches de solutions peu connues dans le cadre scolaire.
