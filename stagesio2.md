@@ -51,7 +51,21 @@
 - Planification de l'audit matériel : Identification des points de vigilance pour le futur inventaire physique (modèles exacts, connectique PoE pour les caméras, état des câbles).
 - Lancement de la Mission 4 (Audit de cybersécurité) : Analyse préliminaire du site web de l’événement (hébergé chez OVH) via des outils d'audit passif.
 ### 🗓️ Mardi :
--  
+-  Point sur l'obsolescence du serveur de stockage existant lors d'un échange avec la direction.
+
+- Étude technique pour le choix d'un nouveau serveur NAS (châssis à 4 baies).
+
+- Définition d'une configuration en RAID 6 pour garantir la haute disponibilité des données (2 To utiles).
+
+- Analyse de la mutualisation des services pour utiliser le serveur comme NAS (fichiers) et NVR (vidéosurveillance).
+
+- Établissement d'une politique d'accès restreint selon le principe du moindre privilège.
+
+- Rédaction d'une note de synthèse technique et mise à jour du dossier de stage.
+
+- Sauvegarde et archivage des travaux via les outils de gestion de version.
+
+- Assistance utilisateurs
 ### 🗓️ Mercredi :
 - 
 
