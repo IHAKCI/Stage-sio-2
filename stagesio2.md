@@ -67,7 +67,15 @@
 
 - Assistance utilisateurs
 ### 🗓️ Mercredi :
-- 
+- Étude comparative des solutions de routage
+
+- Réalisation d'une étude comparative de trois routeurs professionnels respectant un budget inférieur à 200 €.
+- Analyse des capacités de segmentation réseau : vérification du support de minimum 3 VLANs par modèle pour isoler les flux (Staff, Invités, Sécurité).
+- Étude de la sécurité des accès distants : validation de la compatibilité avec les tunnels VPN IPsec pour la direction.
+- Évaluation des fonctionnalités Wi-Fi : distinction entre les modèles avec Wi-Fi intégré (Asus) et les solutions nécessitant des bornes externes (TP-Link, Cisco) pour la gestion du Multi-SSID.
+- Analyse de la gestion des visiteurs : intégration de la fonctionnalité Portail Captif pour l'accueil du public lors du salon international.
+- Rédaction d'un tableau comparatif incluant les tarifs (TP-Link ER7206 à 150 €, Cisco RV260 à 175 €, Asus RT-AX59U à 140 €).
+- Mise à jour de la documentation technique et archivage des recherches sur Git.
 
 ### 🗓️ Jeudi :
 - 
