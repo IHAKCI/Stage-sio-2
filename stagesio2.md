@@ -68,7 +68,6 @@
 - Assistance utilisateurs
 ### 🗓️ Mercredi :
 - Étude comparative des solutions de routage
-
 - Réalisation d'une étude comparative de trois routeurs professionnels respectant un budget inférieur à 200 €.
 - Analyse des capacités de segmentation réseau : vérification du support de minimum 3 VLANs par modèle pour isoler les flux (Staff, Invités, Sécurité).
 - Étude de la sécurité des accès distants : validation de la compatibilité avec les tunnels VPN IPsec pour la direction.
