@@ -78,7 +78,9 @@
 - Mise à jour de la documentation technique et archivage des recherches sur Git.
 
 ### 🗓️ Jeudi :
-- 
+- Finalisation de l'étude comparative des routeurs (< 200 €) et de la solution NAS Synology DS423.
+- Transmission des préconisations techniques au tuteur (Najib) pour présentation au président.
+- Proposition en attente de validation budgétaire par la direction avant lancement des achats.
 
 ### 🗓️ Vendredi :
 -
