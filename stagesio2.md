@@ -82,8 +82,19 @@
 - Proposition en attente de validation budgétaire par la direction avant lancement des achats.
 
 ### 🗓️ Vendredi :
--
+-comparaison d'autre routueurs (TP-Link ER7206, Cisco RV260, Asus RT-AX59U) et finalisation de l'étude comparative pour la solution NAS Synology DS423.
+- Transmission des préconisations techniques au tuteur (Najib) pour présentation au président.
 
 ---
-**💬 BILAN HEBDOMADAIRE :**
-> Le début de la semaine marque une immersion dans le monde professionnel, avec une adaptation à l’équipe et la mise en situation face à des recherches de solutions peu connues dans le cadre scolaire.
+## 📅 Semaine du 02/03/2026 au 06/03/2026
+
+### 🗓️ Lundi :
+- Complément d'étude comparative sur les routeurs professionnels (ajout du routeur Asus TUF Gaming BE6500) et proposition au tuteur
+### 🗓️ Mardi :
+
+### 🗓️ Mercredi :
+
+### 🗓️ Jeudi :
+
+
+### 🗓️ Vendredi :
