@@ -91,7 +91,7 @@
 ### 🗓️ Lundi :
 - Complément d'étude comparative sur les routeurs professionnels (ajout du routeur Asus TUF Gaming BE6500) et proposition au tuteur
 ### 🗓️ Mardi :
-
+- Modification de la documentation sur le stage pour rajouter le tableau compartif et réorganisation des rubriques et données.
 ### 🗓️ Mercredi :
 
 ### 🗓️ Jeudi :
