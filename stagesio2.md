@@ -93,8 +93,8 @@
 ### 🗓️ Mardi :
 - Modification de la documentation sur le stage pour rajouter le tableau compartif et réorganisation des rubriques et données.
 ### 🗓️ Mercredi :
-
+- Finalisation et intégration du tableau comparatif détaillé des quatre routeurs incluant l'analyse du modèle ASUS Wi-Fi 7.
 ### 🗓️ Jeudi :
-
+- Travaux de rédaction et mise en forme de la documentation technique globale pour le dossier de stage.
 
 ### 🗓️ Vendredi :
