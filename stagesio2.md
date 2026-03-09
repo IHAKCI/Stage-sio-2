@@ -98,3 +98,4 @@
 - Travaux de rédaction et mise en forme de la documentation technique globale pour le dossier de stage.
 
 ### 🗓️ Vendredi :
+- Assistance utilisateur pour la configuration d'une imprimante réseau Brother et résolution de problèmes d'impression pour les responsables.
