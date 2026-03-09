@@ -103,3 +103,4 @@
 ---
 ## 📅 Semaine du 09/03/2026 au 13/03/2026
 ### 🗓️ Lundi :
+- Réalisation d'une étude technique sur l'installation d'OpenWrt (Xiaomi AX3000T) pour évaluer une alternative économique et sécurisée sur recommandation du tuteur.
