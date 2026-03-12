@@ -104,3 +104,9 @@
 ## 📅 Semaine du 09/03/2026 au 13/03/2026
 ### 🗓️ Lundi :
 - Réalisation d'une étude technique sur l'installation d'OpenWrt (Xiaomi AX3000T) pour évaluer une alternative économique et sécurisée sur recommandation du tuteur.
+### 🗓️ Mardi :
+- Analyse de la compatibilité matérielle et des fonctionnalités d'OpenWrt pour la segmentation
+ ### 🗓️ Mercredi :
+- Assistance utilisateurs sur un pc portable en réinstallation de Windows 11
+### 🗓️ Jeudi :
+- Analyse de l'hebergement du site web du salon de l'algérie et de l'applicatif dolibbar qui est dans un sous domaine du salon.
